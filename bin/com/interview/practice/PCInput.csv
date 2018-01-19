@@ -1,0 +1,16 @@
+City,Country,Gender,Currency,AverageIncome 
+NewDelhi,India,F,INR,60000 
+Hyderabad,India,M,INR,80000 
+Beijing,China,M,Yuan,10000 
+Sanghai,China,F,Yuan,8000 
+Bengaluru,India,M,INR,100000 
+NewYork,USA,F,USD,8000 
+London,UK,M,GBP,8000 
+NewJersy,USA,M,USD,8000 
+SanFransico,USA,M,USD,10000 
+Glasgow,UK,M,GBP,7000 
+Kolkata,India,F,INR,40000 
+Shenzhen,China,M,Yuan,8000 
+LosAngeles,USA,F,USD,8000 
+Seattle,USA,M,USD,10000 
+Manchester,UK,F,GBP,6000 
